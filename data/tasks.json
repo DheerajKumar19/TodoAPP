@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "buy milk"
+    },
+    {
+      "id": "2",
+      "text": "buy eggs"
+    },
+    {
+      "id": "bcd37d8b-d6ea-4a97-96fc-8f0cccbeaa8d",
+      "text": "go to the gym"
+    }
+  ]
+}
